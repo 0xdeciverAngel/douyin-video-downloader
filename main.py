@@ -1,1 +1,1 @@
-from api import douyin_api
+from api import douyin_tools
