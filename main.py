@@ -6,9 +6,10 @@ def parse_url(url:str)->list:
     return urls
 
 if __name__ == "__main__":
-    while 1:
-    # if __name__ == "__main__":
-        user_input=input('input url')
+    # while 1:
+    if __name__ == "__main__":
+        user_input = 'https://v.douyin.com/JNTYPWK/'
+        # user_input=input('input url')
         if user_input=='':
             exit()
             # break
